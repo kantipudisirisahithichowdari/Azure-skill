@@ -1,0 +1,15 @@
+# Azure CLI / Bicep generated files
+*.json
+
+# Temporary files
+*.tmp
+*.log
+
+# SSH private keys
+.ssh/
+id_ed25519
+id_ed25519.pub
+
+# OS/editor files
+.DS_Store
+.vscode/
